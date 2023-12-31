@@ -1,11 +1,11 @@
 # Homepage
 
-1. Ektype/Baloo2 [https://github.com/EkType/Baloo2]
-2. Ektype/Anek [https://github.com/EkType/Anek]
-3. SIL/Japa-sans-oriya [https://github.com/silnrsi/font-japa-sans-oriya]
-4. Jagannatha [https://github.com/OdiaWikimedia/Odia_OT_Jagannatha]
-5. Alkatra [https://github.com/suman51284/Alkatra]
-6. Suse-Akruti [https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0]
+1. Ektype (Baloo2)[https://github.com/EkType/Baloo2]
+2. Ektype  (Anek)[https://github.com/EkType/Anek]
+3. SIL (Japasansoriya)[https://github.com/silnrsi/font-japa-sans-oriya]
+4. Jagannatha (OdiaOT)[https://github.com/OdiaWikimedia/Odia_OT_Jagannatha]
+5. Googlefonts (Alkatra)[https://github.com/suman51284/Alkatra]
+6. OpenSuse (Akruti)[https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0]
 
 # Download URL
 
