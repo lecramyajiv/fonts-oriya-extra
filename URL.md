@@ -5,7 +5,7 @@
 3. SIL [Japasansoriya](https://github.com/silnrsi/font-japa-sans-oriya)
 4. Jagannatha [OdiaOT](https://github.com/OdiaWikimedia/Odia_OT_Jagannatha)
 5. Googlefonts [Alkatra](https://github.com/suman51284/Alkatra)
-6. OpenSuse [Akruti](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
+
 
 # Download URL
 
@@ -14,4 +14,3 @@
 3. JapaSansOriya [SIL](https://github.com/silnrsi/font-japa-sans-oriya/releases/download/v2.100/JapaSansOriya-2.100.tar.xz)
 4. Jagannatha  [OdiaOT](https://github.com/OdiaWikimedia/Odia_OT_Jagannatha/archive/807e182/Odia_OT_Jagannatha-807e182.tar.gz)
 5. Googlefonts [Alkatra](https://github.com/suman51284/Alkatra/archive/0192cbf/Alkatra-0192cbf.tar.gz)
-6. OpenSuse [Akruti](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)
